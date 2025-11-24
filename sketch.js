@@ -9,6 +9,7 @@
 // 4. Everyone else pulls and refreshes the browser to see all names.
 
 let names = [
+  'Junyi',
   // Example:
   // 'Student 1',
   // "Student 2",
